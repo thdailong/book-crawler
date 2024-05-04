@@ -1,0 +1,27 @@
+{
+  "name": "book-scraper",
+  "version": "1.0.0",
+  "description": "A system to craw data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thdailong/book-crawler.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "type": "module",
+  "author": "Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thdailong/book-crawler/issues"
+  },
+  "homepage": "https://github.com/thdailong/book-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^22.7.1"
+  }
+}
